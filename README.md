@@ -12,7 +12,8 @@ This project implements a **quantum-inspired password generator** with multiple 
 
 ### Example:
 Run the program to get quantum-secure passwords like this:
-```bash
+
+```
 Quantum-secure password: Z#!9kL8^t$BPx7_Z3
 ```
 ## Installation
@@ -38,4 +39,3 @@ Each layer adds protection using techniques such as chaos pattern injection and 
 
 ## License
 This project is open-source. Feel free to share and improve.
-```
